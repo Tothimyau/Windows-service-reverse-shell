@@ -1,0 +1,234 @@
+﻿Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\TH\BT3\BT3\bin\Debug\BT3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TH\BT3\BT3\bin\Debug\BT3.InstallLog
+   assemblypath = D:\TH\BT3\BT3\bin\Debug\BT3.exe
